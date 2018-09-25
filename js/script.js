@@ -17,5 +17,5 @@
     if (question4 === "1") {
       marks++;
     }
-    alert(marks)
+    document.getElementById("result").innerHTML="You have got " + marks + " out of 4"
   };
