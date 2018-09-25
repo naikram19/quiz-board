@@ -4,6 +4,9 @@
     var question3 = $("input:radio[name=question3]:checked").val();
     var question4 = $("input:radio[name=question4]:checked").val();
 
+
+    
+
     var marks = 0;
     if(question1 === "1") {
       marks++;

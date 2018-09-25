@@ -22,7 +22,7 @@ button{
   color: #cccccc
 }
 #result{
-  padding: 10px;
+  padding: 20px;
   margin: 20px;
   text-align: center;
   color: rgb(0, 0, 0);
@@ -33,5 +33,20 @@ button{
   border-radius: 15px;
   -webkit-border-radius: 15px;
   -moz-border-radius: 15px;
-  margin: 10px 
+  margin-top: 5%;
+  margin-bottom: 5%;   
+}
+.jumbotron{
+  background-color: #1f113562;
+  margin-top: 1%;
+  color: rgb(88, 20, 20);
+}
+.questionDesign{
+  background-color: rgb(33, 74, 80);
+  border-radius: 5px; 
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  margin-left: 5%;
+  margin-bottom: 5%;
+  color: aqua;
 }
