@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Chicle|Indie+Flower|Titillium+Web');
 body{
   margin: 0;
   padding: 0;
@@ -40,6 +41,7 @@ button{
   background-color: #1f113562;
   margin-top: 1%;
   color: rgb(88, 20, 20);
+  font-family: 'Titillium Web', sans-serif;
 }
 .questionDesign{
   background-color: rgb(33, 74, 80);
@@ -49,4 +51,6 @@ button{
   margin-left: 5%;
   margin-bottom: 5%;
   color: aqua;
+  font-family: 'Indie Flower', cursive;
+  font-size: 150%
 }
