@@ -18,8 +18,8 @@
 ## Technologies Used
 {I have used HTML, CSS and Javascript in this website.}
 ## Support and contact details
-{naikram1986@gmail.com
-https://naikram19.github.io/triangle-tracker/}
+{naikram1986@gmail.com}
+{https://naikram19.github.io/quiz-board/}
 ### License
 *{MIT}*
 Copyright (c) {2018} **{Ram Naik}**
